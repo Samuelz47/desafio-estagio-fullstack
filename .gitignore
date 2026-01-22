@@ -1,0 +1,15 @@
+# Dependências
+node_modules
+dist
+build
+
+# Banco de dados e Ambiente (Segurança!)
+.env
+*.db
+*.sqlite
+*.sqlite-journal
+
+# Logs e sistema
+*.log
+.DS_Store
+.vscode
